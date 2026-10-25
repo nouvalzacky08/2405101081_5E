@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Rahadyansyah Ibrahim Purnomo
+- Nama: Muhammad Nouval Zacky
 - NIM: 2405101092
 - Kelas: 5E
 - Program Studi: Teknik Informatika
