@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#4a90d9"/>
+  <circle cx="230" cy="55" r="30" fill="#ffd54f"/>
+  <polygon points="0,200 90,80 180,200" fill="#2e7d32"/>
+  <polygon points="100,200 200,100 300,200" fill="#388e3c"/>
+  <text x="150" y="30" font-family="Arial" font-size="18" fill="#fff" text-anchor="middle">Gambar Praktikum</text>
+</svg>
